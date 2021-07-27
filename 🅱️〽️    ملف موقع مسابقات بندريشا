@@ -1,4 +1,4 @@
-                         🅱️〽️
+                        🅱️〽️
 ملف موقع مسابقات بندريشا المهم
 # gitignore template for Drupal 8 projects
 #
@@ -14,7 +14,7 @@
 /sites/*/private
 /sites/*/files-public
 /sites/*/files-private
-
+    1.4.55       اصدار
 # Ignore paths that may contain temporary files
 /sites/*/translations
 /sites/*/tmp
